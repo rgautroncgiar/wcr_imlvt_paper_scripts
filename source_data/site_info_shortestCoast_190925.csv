@@ -1,0 +1,35 @@
+X1,id,Code,Site,Country,Continent,Currently.Using.data,Country.ISO.code,Department,Location,Partner,Latitude,Longitude,Date.of.planting,Last.date.of.rust.data,srtm,distanceCoast_km
+1,Alstonville_AUS,Oc1,Alstonville,Australia,Oceania,Yes,AUS,"Alstonville, NSW, Australia",NA,Southern Cross Univeristy,-28.851667,153.455278,43682,NA,136,13.5157731
+2,FlorAmarilla_SLV,LA1,FlorAmarilla,El Salvador,LatAm,Yes,SLV,Santa Ana,Santa Ana,WCR,13.917171,-89.569322,44058,NA,923,45.42797428
+3,SanAntonio_GTM,LA2,SanAntonio,Guatemala,LatAm,Yes,GTM,Huhuetenango,San Antonio Chaguite,Anacafe,15.532494,-92.025022,41894,NA,1572,97.23108669
+4,LasLagunas_HND,LA3,LasLagunas,Honduras,LatAm,Yes,HND,La Paz,Marcala,IHCAFE,14.216486,-87.952131,42634,NA,1416,92.57194858
+5,LaFe_HND,LA4,LaFe,Honduras,LatAm,Yes,HND,Santa Barbara,La Fe,IHCAFE,14.9988889,-88.055,42349,NA,886,79.54513334
+6,Copan_HND,LA5,Copan,Honduras,LatAm,Yes,HND,Copan,Corquin,IHCAFE,14.55925,-88.87855556,42544,NA,934,131.7498688
+7,CCRI_IND,As1,CCRI,India,Asia,Yes,IND,Chikmagalur Distrit,"Pin – 577 117, Karnataka State",CCRI,13.3738889,75.57583333,42104,NA,995,94.56044064
+8,Sumatra_IDN,As2,Sumatra,Indonesia,Asia,Yes,IDN,Indonesia Coffee and Cocoa Research Institute,"Farmer Training Centre, Sinar Naga Mariah (Village), Pemtang Silimahuta (Sub Districts) Simalangun (Districts), North Sumatra (Province), Indonesia",PT Indo CafCo - Farmer Training Centre,2.937337,98.553898,43873,NA,1421,90.75569479
+9,Gambung_IDN,As3,Gambung,Indonesia,Asia,Yes,IDN,"Bandung Distric, West Java",Gambung Research Station,Research Institute for Tea & Cinchona,-7.1372222,107.5058333,42884,NA,1284,41.94308702
+10,Toraja_IDN,As4,Toraja,Indonesia,Asia,Yes,IDN,"Toraja Utara district, South Sulawesi",Pedamaran Estate,Key Coffee,-3.021333,120.002317,42888,NA,1299,21.4669201
+11,Ruiru_KEN,Af11,Ruiru,Kenya,Africa,Yes,KEN,Ruiru,NA,CRI,-1.1,36.75,42135,NA,1931,424.8251317
+12,Koru_KEN,Af12,Koru,Kenya,Africa,Yes,KEN,Koru,NA,CRI,-0.1166667,35.26666667,42149,NA,1581,621.5853989
+13,Paksong_LAO,As7,Paksong,Laos,Asia,Yes,LAO,Pakson,Thevada estate,OLAM,15.235603,106.383648,42277,NA,1185,206.1170258
+14,Mzuzu_MWI,Af1,Mzuzu,Malawi,Africa,Yes,MWI,Mzuzu,NA,Lunyangwa Agriculture Research Station,-11.1833333,34.05,43004,NA,1477,644.5393013
+15,LaVirgen_NIC,LA6,LaVirgen,Nicaragua,LatAm,Yes,NIC,El Coyolar-Matagalpa-Nicaragua,Finca La Virgen,ECOM,13.1541667,-85.64330833,42566,NA,772,166.171659
+16,LaCumplida_NIC,LA7,LaCumplida,Nicaragua,LatAm,Yes,NIC,Santa Emilia-Matagalpa-Nicaragua,Finca Tolosa (La Cumplida),NicaFrance,13.0258333,-85.8825,42592,NA,1351,136.5995857
+17,Chanchamayo_PER,LA8,Chanchamayo,Peru,LatAm,Yes,PER,Junin,"Chanchamayo, San Luis de Shuaro",Finca Mountain Villa Rica,-10.7783333,-75.24305556,42366,NA,1193,240.2285876
+18,SanIgnacio_PER,LA9,SanIgnacio,Peru,LatAm,Yes,PER,Cajamarca,"San Ignacio, San Ignacio",Centrocafe,-5.1199722,-79.06416944,42367,NA,1660,207.2003916
+19,Mulungu_COD,Af2,Mulungu,The Democratic Republic of the Congo,Africa,Yes,COD,Mulungu,NA,INERA,2.337317,28.786117,42663,NA,874,1390.115492
+20,Rubona_RWA,Af3,Rubona,Rwanda,Africa,Yes,RWA,Southern Province / Huye,NA,RAB,-2.4961167,29.77345,43151,NA,1659,1074.516818
+21,Gahororo_RWA,Af4,Gahororo,Rwanda,Africa,Yes,RWA,Eastern Province / Ngoma,NA,RAB,-2.1597,30.512222,43161,NA,1627,1006.480775
+22,Mwito_RWA,Af5,Mwito,Rwanda,Africa,Yes,RWA,Western Province / Nyamasheke,NA,RAB,-2.3215082,29.18558,43369,NA,1732,1142.647262
+23,Bugusege_UGA,Af6,Bugusege,Uganda,Africa,Yes,UGA,Bugusege coffee substation,NA,NaCORI,1.282554,34.373672,43665,NA,1873,787.5727528
+24,Bulegeni_UGA,Af7,Bulegeni,Uganda,Africa,Yes,UGA,Bulegeni,NA,NaCORI,1.297548,34.321545,44097,NA,1388,793.3023852
+25,Buginyanya_UGA,Af8,Buginyanya,Uganda,Africa,Yes,UGA,Buginyanya,NA,NaCORI,1.151632,34.258322,44127,NA,1481,790.1286029
+26,CRI_ZWE,Af9,CRI,Zimbawe,Africa,Yes,ZWE,NA,NA,Research and Specialist Services,-20.2491667,32.89,43705,NA,715,197.5730751
+27,Kateshi_ZMB,Af10,Kateshi,Zambia,Africa,Yes,ZMB,Kateshi estate,NA,NORTHERN COFFEE CORPORATION LIMITED,-10.022932,31.225105,42436,NA,1382,914.938144
+28,Encantos_PRI,LA10,Encantos,Puerto Rico,LatAm,No,PRI,"Jayuya, Puerto Rico",Hacienda Encantos,PRCR,18.1612278,-66.63086667,43580,NA,781,20.91626707
+29,Hilo_USA,Oc2,Hilo,United States,Oceania,No,USA,Hawaii,NA,Hawaii_Hilo,19.6828803,-155.19706,NA,NA,701,13.37237224
+30,Chicharras_MEX,LA11,Chicharras,Mexico,LatAm,Yes,MEX,NA,NA,NA,14.96545,-92.15243,NA,NA,398,41.11769575
+31,Cordoba_MEX,LA12,Cordoba,Mexico,LatAm,Yes,MEX,NA,NA,NA,18.85983,-96.86025,NA,NA,651,82.76277338
+32,Teocelo_MEX,LA13,Teocelo,Mexico,LatAm,Yes,MEX,NA,NA,NA,19.38611,-97.00167,NA,NA,1275,72.78198793
+33,StAnn_JAM,LA14,StAnn,Jamaica,LatAm,Yes,JAM,NA,NA,NA,18.19823,-77.35343,NA,NA,588,30.78371051
+34,StAndrew_JAM,LA15,StAndrew,Jamaica,LatAm,Yes,JAM,NA,NA,NA,18.08133,-76.73781,NA,NA,904,13.27923248
